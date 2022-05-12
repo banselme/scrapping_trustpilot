@@ -1,0 +1,47 @@
+[
+    {
+        "uuid": "1acb95a7-0916-4242-a041-8f02e0af0ea2",
+        "name": "leboncoin",
+        "url": "https://www.leboncoin.fr/"
+    },
+    {
+        "uuid": "cf52a357-c6b8-45df-a35a-a9a43b3a023d",
+        "name": "Dealabs",
+        "url": "https://www.dealabs.com/"
+    },
+    {
+        "uuid": "8b45b6fc-505f-4431-9b6e-0fbd67b2781f",
+        "name": "Partoo",
+        "url": "https://www.partoo.co/"
+    },
+    {
+        "uuid": "564937e5-4611-421a-90e2-6e0306dc916b",
+        "name": "Silvr",
+        "url": "https://silvr.co/"
+    },
+    {
+        "uuid": "c025ddb8-3e30-4bd8-a5ce-220a49c5169c",
+        "name": "Gaagle",
+        "url": "https://www.gaagle.fr/"
+    },
+    {
+        "uuid": "89b1b4a1-175c-45e9-99e4-c6f77d594ade",
+        "name": "Tesla Motors",
+        "url": "https://www.teslamotors.com/"
+    },
+    {
+        "uuid": "b03afbad-f690-4e50-9da6-c3b2c1358256",
+        "name": "Amazon",
+        "url": "https://www.amazon.com/"
+    },
+    {
+        "uuid": "59347f08-a87f-4a6c-a49c-c26f96500178",
+        "name": "GitHub",
+        "url": "https://www.github.com/"
+    },
+    {
+        "uuid": "07409e1f-1da5-4d5b-9108-265d5ce415c7",
+        "name": "Dropr",
+        "url": "https://www.dropr.fr/"
+    }
+]
